@@ -1,0 +1,7 @@
+streamlit
+pandas
+metpy
+pint
+openpyxl
+xlrd
+altair
